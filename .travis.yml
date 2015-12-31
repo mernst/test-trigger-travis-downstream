@@ -1,0 +1,8 @@
+language: java
+
+script: true
+
+# Comment or uncomment this to run a matrix build
+# jdk:
+#   - oraclejdk8
+#   - oraclejdk7
